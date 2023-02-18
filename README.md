@@ -1,5 +1,6 @@
-### Hi 👋 I'm Mohamed
-A passionate developer from India
+
+<h1 align="center">Hi 👋, I'm Mohamed</h1>
+<h3 align="center">A passionate developer from India</h3>
 
 <!--
 **hamdtc/hamdtc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
