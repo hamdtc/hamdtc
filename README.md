@@ -3,6 +3,8 @@
 <h3 align="center">A passionate developer from India</h3>
 
 - 📫 How to reach me: **mohamedtc73@gmail.com**
+- 
+- 🔭 I’m currently working on ...
 <!--
 **hamdtc/hamdtc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
