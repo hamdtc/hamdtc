@@ -5,6 +5,14 @@
 - 📫 How to reach me: **mohamedtc73@gmail.com**
 
 - 🌱 I’m currently learning **Full Stack Development**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/mohamedtc/" target="_blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Mohamed tc" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/hamdtc" target="_blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="hamdtc" height="30" width="40" /></a>
+</p>
 <!--
 **hamdtc/hamdtc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
