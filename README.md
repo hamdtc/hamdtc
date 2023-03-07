@@ -13,6 +13,10 @@
 <a href="https://www.leetcode.com/hamdtc" target="_blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="hamdtc" height="30" width="40" /></a>
 </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hamdtc&show_icons=true&locale=en&layout=compact" alt="hamdtc" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hamdtc&show_icons=true&locale=en" alt="hamdtc" /></p>
 <!--
 **hamdtc/hamdtc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
