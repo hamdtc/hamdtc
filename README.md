@@ -1,8 +1,8 @@
 
 <h1 align="center">Hi 👋, I'm Mohamed</h1>
 <h3 align="center">A passionate developer from India</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hamdtc&label=Profile%20views&color=0e75b6&style=flat" alt="hamdtc" /> </p>
 - 📫 How to reach me: **mohamedtc73@gmail.com**
+
 - 🌱 I’m currently learning **Full Stack Development**
 <!--
 **hamdtc/hamdtc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
