@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Mohamed</h1>
-<h3 align="center">A passionate developer from India</h3>
+<h3 align="center">A passionate developer from India⚡</h3>
 
 - 📫 How to reach me: **mohamedtc73@gmail.com**
 
