@@ -7,6 +7,8 @@
 
 - 🌱 I’m currently learning **Full Stack Development**
 
+- open for new oppurtunities.
+
 - 💬 Ask me about ..
 
 <h3 align="left">Connect with me:</h3>
