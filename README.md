@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Full Stack Development**
 
-- open for oppurtunities.
+- ⚡ open for oppurtunities.
 
 - 💬 Ask me about ..
 
